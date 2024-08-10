@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "1c16e592c089c0ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "5304877c860954d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "382d60383a9cf28b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. Reviews/Languages/Cpp/메모리 할당에 있어서의 최적화.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b02d1dd68a2b8be5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32c55c6d8fc9c12a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. Reviews/GitHub/git origin push main 하면 자꾸 이메일 비번 치라는 오류 해결하는 법..md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6726ea296e1f8b4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6deebdf170ecaf1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae5be3bfe713cf24",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6677f7de63cadadd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b7784432058ed88b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 360.5024719238281
+  },
+  "right": {
+    "id": "31d2963e876046b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2dd527054496a011",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "371fdfb3b575e064",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02. Reviews/Languages/Cpp/메모리 할당에 있어서의 최적화.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "01c28493d88ccc7d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02. Reviews/Languages/Cpp/메모리 할당에 있어서의 최적화.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "467154244e5bde4e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f97c86eb6c1b9422",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02. Reviews/Languages/Cpp/메모리 할당에 있어서의 최적화.md"
+              }
+            }
+          },
+          {
+            "id": "faf61d035e5e9c6d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "b5dececaebc9d90f",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "02. Reviews/Languages/Cpp/메모리 할당에 있어서의 최적화.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "382d60383a9cf28b",
+  "lastOpenFiles": [
+    "02. Reviews/Languages/Cpp/C++에서 const char* stest = \"this is literal string\"가 가능한 이유.md",
+    "02. Reviews/GitHub/git origin push main 하면 자꾸 이메일 비번 치라는 오류 해결하는 법..md",
+    "02. Reviews/Languages/Cpp/char* m_pszData에 동적할당하기.md",
+    "README.md",
+    "스크린샷/Pasted image 20240801180714.png",
+    "02. Reviews/Languages/Cpp/메모리 할당에 있어서의 최적화.md",
+    "02. Reviews/Languages/Cpp/명시적으로 기본 설정 및 삭제되는 함수 간 관계.md",
+    "02. Reviews/Languages/Cpp/기기의 CPU 자원을 모두 사용하지 못할 때.md",
+    "03. Human Arts/기술적 객체지향.md",
+    "03. Human Arts/성착취물에 대한 객체지향 철학에서의 입장.md",
+    "03. Human Arts/P의 거짓, 그리고 제페토.md",
+    "03. Human Arts/네트워크의 군주/네트워크의 군주 - 제6장 의문들.md",
+    "03. Human Arts/네트워크의 군주/네트워크의 군주 - 제7장 객체지향 철학.md",
+    "03. Human Arts/네트워크의 군주/네트워크의 군주 - 제5장 라투르의 공헌.md",
+    "03. Human Arts/네트워크의 군주/네트워크의 군주 - 제4장 판도라의 희망.md",
+    "03. Human Arts/네트워크의 군주/네트워크의 군주 - 제3장 우리는 결코 근대인이었던 적이 없다.md",
+    "03. Human Arts/네트워크의 군주/네트워크의 군주 - 제2장 과학의 실천.md",
+    "03. Human Arts/네트워크의 군주/네트워크의 군주 - 제1장 비환원.md",
+    "03. Human Arts/감시와 처벌/감시와 처벌 - 제3부 규율.md",
+    "03. Human Arts/감시와 처벌",
+    "03. Human Arts/Professional C++ - 제5장 Designing with Objects.md",
+    "03. Human Arts/현상학과 해석학/현상학과 해석학 - 제1장 후썰과 현상학의 이념.md",
+    "03. Human Arts/하이데거의 사방세계와 신.md",
+    "스크린샷/Pasted image 20240518180611.png",
+    "스크린샷/Pasted image 20240518180654.png",
+    "스크린샷/Pasted image 20240518180622.png",
+    "스크린샷/Pasted image 20240518180712.png",
+    "03. Human Arts/현상학과 해석학/현상학과 해석학 - 제2장 후썰의 초중기 현상학의 근본구도.md",
+    "03. Human Arts/현상학과 해석학/현상학과 해석학 - 들어가는 말.md",
+    "03. Human Arts/현상학과 해석학",
+    "03. Human Arts/새민족 교회 0407 기도문 이창준.md",
+    "03. Human Arts/네트워크의 군주",
+    "테일러.md",
+    "03. Human Arts/기술적 객체지향과 그레이엄 하먼으로 논하는 디지털 휴먼의 존엄성.md",
+    "02. Reviews/Graphics",
+    "스크린샷/스크린샷 2023-11-06 오후 9.30.10.png",
+    "스크린샷/스크린샷 2023-11-05 오후 4.46.52.png",
+    "스크린샷/스크린샷 2023-11-04 오후 11.11.57.png",
+    "스크린샷/Pasted image 20240217204817.png",
+    "스크린샷/Pasted image 20240217201950.png",
+    "03. Human Arts",
+    "스크린샷/화면 기록 2023-05-18 오후 12.11.51.mov",
+    "스크린샷",
+    "SBS Game Dev Academy",
+    "02. Reviews/Projects/PANIM/03. Daily Reviews",
+    "02. Reviews/Projects/PANIM/02. 구현"
+  ]
+}
