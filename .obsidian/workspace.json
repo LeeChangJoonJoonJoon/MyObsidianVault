@@ -4,40 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "5304877c860954d3",
+        "id": "913b2d0dac87fda9",
         "type": "tabs",
         "children": [
           {
-            "id": "382d60383a9cf28b",
+            "id": "58edec72fb89f7e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. Reviews/Languages/Cpp/메모리 할당에 있어서의 최적화.md",
+                "file": "02. Reviews/Languages/Cpp/무브 시맨틱 (Move Semantic).md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "63a7b8b2bdffca63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. Reviews/Languages/Cpp/이동생성자.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
-      },
-      {
-        "id": "b02d1dd68a2b8be5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "32c55c6d8fc9c12a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. Reviews/GitHub/git origin push main 하면 자꾸 이메일 비번 치라는 오류 해결하는 법..md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "임시",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5024719238281
+    "width": 421.50418853759766
   },
   "right": {
     "id": "31d2963e876046b2",
@@ -103,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02. Reviews/Languages/Cpp/메모리 할당에 있어서의 최적화.md",
+                "file": "02. Reviews/Languages/Cpp/이동생성자.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02. Reviews/Languages/Cpp/메모리 할당에 있어서의 최적화.md",
+                "file": "02. Reviews/Languages/Cpp/이동생성자.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. Reviews/Languages/Cpp/메모리 할당에 있어서의 최적화.md"
+                "file": "02. Reviews/Languages/Cpp/이동생성자.md"
               }
             }
           },
@@ -165,7 +160,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. Reviews/Languages/Cpp/메모리 할당에 있어서의 최적화.md"
+                "file": "02. Reviews/Languages/Cpp/이동생성자.md"
               }
             }
           }
@@ -187,15 +182,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "382d60383a9cf28b",
+  "active": "63a7b8b2bdffca63",
   "lastOpenFiles": [
-    "02. Reviews/Languages/Cpp/C++에서 const char* stest = \"this is literal string\"가 가능한 이유.md",
-    "02. Reviews/GitHub/git origin push main 하면 자꾸 이메일 비번 치라는 오류 해결하는 법..md",
-    "02. Reviews/Languages/Cpp/char* m_pszData에 동적할당하기.md",
-    "README.md",
-    "스크린샷/Pasted image 20240801180714.png",
-    "02. Reviews/Languages/Cpp/메모리 할당에 있어서의 최적화.md",
+    "02. Reviews/Languages/Cpp/무브 시맨틱 (Move Semantic).md",
+    "02. Reviews/Languages/Cpp/이동생성자.md",
     "02. Reviews/Languages/Cpp/명시적으로 기본 설정 및 삭제되는 함수 간 관계.md",
+    "02. Reviews/Languages/Cpp/csv 파일 파싱하기.md",
+    "merge sort와 quick sort.md",
+    "struct와 class의 차이.md",
+    "02. Reviews/Languages/Cpp/메모리 할당에 있어서의 최적화.md",
+    "02. Reviews/Languages/Cpp/지역성.md",
+    "02. Reviews/Languages/Cpp/디스크 IO.md",
+    "02. Reviews/Unreal Engine/FAsyncTaskBase 분석.md",
+    "README.md",
+    "unsigned char*를 int, double로 변환 최적화.md",
+    "02. Reviews/GitHub/git origin push main 하면 자꾸 이메일 비번 치라는 오류 해결하는 법..md",
+    "02. Reviews/Languages/Cpp/C++에서 const char* stest = \"this is literal string\"가 가능한 이유.md",
+    "02. Reviews/Languages/Cpp/char* m_pszData에 동적할당하기.md",
+    "스크린샷/Pasted image 20240801180714.png",
     "02. Reviews/Languages/Cpp/기기의 CPU 자원을 모두 사용하지 못할 때.md",
     "03. Human Arts/기술적 객체지향.md",
     "03. Human Arts/성착취물에 대한 객체지향 철학에서의 입장.md",
@@ -207,22 +211,13 @@
     "03. Human Arts/네트워크의 군주/네트워크의 군주 - 제3장 우리는 결코 근대인이었던 적이 없다.md",
     "03. Human Arts/네트워크의 군주/네트워크의 군주 - 제2장 과학의 실천.md",
     "03. Human Arts/네트워크의 군주/네트워크의 군주 - 제1장 비환원.md",
-    "03. Human Arts/감시와 처벌/감시와 처벌 - 제3부 규율.md",
     "03. Human Arts/감시와 처벌",
-    "03. Human Arts/Professional C++ - 제5장 Designing with Objects.md",
-    "03. Human Arts/현상학과 해석학/현상학과 해석학 - 제1장 후썰과 현상학의 이념.md",
-    "03. Human Arts/하이데거의 사방세계와 신.md",
     "스크린샷/Pasted image 20240518180611.png",
     "스크린샷/Pasted image 20240518180654.png",
     "스크린샷/Pasted image 20240518180622.png",
     "스크린샷/Pasted image 20240518180712.png",
-    "03. Human Arts/현상학과 해석학/현상학과 해석학 - 제2장 후썰의 초중기 현상학의 근본구도.md",
-    "03. Human Arts/현상학과 해석학/현상학과 해석학 - 들어가는 말.md",
     "03. Human Arts/현상학과 해석학",
-    "03. Human Arts/새민족 교회 0407 기도문 이창준.md",
     "03. Human Arts/네트워크의 군주",
-    "테일러.md",
-    "03. Human Arts/기술적 객체지향과 그레이엄 하먼으로 논하는 디지털 휴먼의 존엄성.md",
     "02. Reviews/Graphics",
     "스크린샷/스크린샷 2023-11-06 오후 9.30.10.png",
     "스크린샷/스크린샷 2023-11-05 오후 4.46.52.png",
